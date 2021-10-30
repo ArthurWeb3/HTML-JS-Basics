@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Web Page</title>
+    </head>
+    <body>
+        <div>
+                Welcome to my web page! 
+        </div>
+        <div>
+            <div class="personalnfo" id="titleDiv">Personal info:</div>
+            <div class="personalnfo" id="nameDiv">AJ Tan</div>
+            <div class="personalnfo" id="ageDiv">20</div>
+        </div>
+    </body>
+</html>
